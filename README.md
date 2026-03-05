@@ -1,51 +1,115 @@
-# 👋 Hey, I'm Bablu Kumar (aka @7tbablu)
+<h1>👋 Hey, I'm Bablu Kumar (@7tbablu)</h1>
 
-🚀 **Full-Stack & Native App Developer** | Creator of the **Kbablu App**
+<p>
+  🚀 <strong>Full-Stack Next.js Developer</strong><br/>
+  Building modern, scalable & production-ready web and mobile applications.
+</p>
 
----
+## About Me
 
-### 💡 About Me  
-I'm a passionate **full-stack developer** who loves building smooth, modern digital experiences — from web apps to native Android applications.  
-I specialize in **Next.js**, **React**, and **Node.js**, and I enjoy crafting scalable systems with clean UI and smart architecture.
+I build complete digital systems — from beautiful frontend interfaces to scalable backend architectures.
 
----
 
-### 🛠️ Tech I Work With  
-- **Frontend:** Next.js, React, Tailwind CSS, ShadCN UI  
-- **Backend:** Node.js, Express.js, Prisma, MongoDB  
-- **Auth & Tools:** Clerk, Auth.js, Stripe, Cloudinary  
-- **Native Apps:** React Native & Expo  
-- **DevOps & Hosting:** Vercel, Firebase, GitHub Actions  
+- Full-Stack Next.js Engineer
+- Building scalable SaaS, E-commerce & realtime platforms
+- Clean, modern UI systems  
+- Secure authentication & role systems  
+- Payment & subscription integrations  
+- Clean architecture enthusiast
+- UI systems with performance focus 
 
----
+I enjoy solving real-world problems with clean architecture and thoughtful design.
 
-### 🌌 About Kbablu App  
-Kbablu is my personal showcase and project hub — built with my signature **Cyan 💙 → Purple 💜** theme.  
-It highlights my work in:
-- ⚡ Full-Stack Web Development  
-- 🎨 UI/UX Design & Component Systems  
-- 📱 Native Android & iOS Apps  
-- 💳 Payment & API Integrations  
+# Tech Stack
 
----
+## Frontend
 
-### 🤝 Let’s Collaborate  
-I'm open to collaborating on **Next.js**, **React Native**, and **full-stack projects** — especially those involving creative UI or deep technical challenges.
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
 
----
+<p align="left">
+  <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/favicon.ico" width="40" />
+  <img src="https://raw.githubusercontent.com/framer/motion/main/packages/motion/logo.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/mdx-js/mdx/main/docs/public/logo.svg" width="40" />
+</p>
 
-### 📫 Reach Me  
-- 🌐 Portfolio: [https://kbablu.vercel.app](https://kbablu.vercel.app)  
-- 🐦 Twitter (X): [@7tbablu](https://x.com/7tbablu)  
-- 💼 LinkedIn: [Bablu Kumar](https://linkedin.com/in/7tbablu)  
-- 📷 Instagram: [@7tbablu](https://instagram.com/7tbablu)
+## State & Forms
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=redux" />
+  <img src="https://img.shields.io/badge/Zustand-brown?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge" />
+</p>
 
-### ⚡ Fun Fact  
-I blend creativity with code — turning UI ideas into living, breathing components ✨
+## Backend & Databases
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis" />
+</p>
 
-> _“Build. Break. Improve. Repeat.” — My coding mantra._
+<p>
+  <img src="https://skillicons.dev/icons?i=prisma" />
+</p>
 
+## Authentication & Realtime
+
+<p>
+  <img src="https://img.shields.io/badge/Auth.js-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Better_Auth-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pusher-16A394?style=for-the-badge" />
+</p>
+
+## Payments & Media
+
+<p>
+  <img src="https://skillicons.dev/icons?i=stripe,cloudinary" />
+</p>
+
+## Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,expo,firebase" />
+</p>
+
+## Code Quality & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=eslint" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=github,vercel" />
+</p>
+
+# Featured Project — Kbablu App
+
+**Kbablu** is my personal portfolio & full-stack showcase platform.
+
+It demonstrates:
+
+- 🏗️ Production-grade architecture  
+- 🎨 Custom design system   
+- 🔐 Advanced authentication flows  
+- 💳 Secure payment integrations  
+- 📡 Realtime communication systems  
+- 📱 Mobile-ready UI patterns  
+
+
+# Connect With Me
+
+<p>
+   <a href="https://kbablu.vercel.app">Portfolio</a> &nbsp; • &nbsp;
+   <a href="https://x.com/7tbablu">Twitter (X)</a> &nbsp; • &nbsp;
+   <a href="https://linkedin.com/in/7tbablu">LinkedIn</a> &nbsp; • &nbsp;
+   <a href="https://instagram.com/7tbablu">Instagram</a>
+</p>
+
+#  Coding Philosophy
+
+> Build clean.  
+> Think scalable.  
+> Design beautifully.  
+> Improve daily.
