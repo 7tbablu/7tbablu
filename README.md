@@ -19,7 +19,7 @@ Self-taught Full-Stack Developer with a deep focus on the Next.js ecosystem, mod
 
 ---
 
-### **Tech Stack**
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,html,css,postgres,nextjs,react,tailwind,nodejs,express,prisma,mongodb,vercel,git,vscode,pnpm" alt="Tech Stack Icons" />
