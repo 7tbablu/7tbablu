@@ -75,7 +75,7 @@ Self-taught Full-Stack Developer with a deep focus on the Next.js ecosystem, mod
 ### Cloud & Services
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel,nginx,linux,docker,postman,sentry,ubuntu" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=vercel,nginx,linux,docker,postman,sentry,ubuntu,cloudflare" alt="Vercel" />
 </p>
 
 <p>
