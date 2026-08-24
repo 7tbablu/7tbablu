@@ -99,7 +99,7 @@ Self-taught Full-Stack Developer with a deep focus on the Next.js ecosystem, mod
 ### Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Developer Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pnpm" alt="Developer Tools" />
 </p>
 
 <p>
