@@ -67,10 +67,10 @@ Self-taught Full-Stack Developer with a deep focus on the Next.js ecosystem, mod
 ### UI & Systems
 
 <p>
-  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" />
-  <img src="https://img.shields.io/badge/Magic_UI-000000?style=for-the-badge" alt="Magic UI" />
-  <img src="https://img.shields.io/badge/Lucide-000000?style=for-the-badge&logo=lucide&logoColor=white" alt="Lucide" />
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" />
+  <img src="https://cdn.simpleicons.org/shadcnui" width="48" height="48" alt="shadcn/ui" />
+  <img src="https://cdn.simpleicons.org/magicui" width="48" height="48" alt="Magic UI" />
+  <img src="https://cdn.simpleicons.org/lucide" width="48" height="48" alt="Lucide" />
+  <img src="https://cdn.simpleicons.org/reacthookform" width="48" height="48" alt="React Hook Form" />
 </p>
 
 ### Cloud & Services
