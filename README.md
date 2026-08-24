@@ -34,7 +34,7 @@ Self-taught Full-Stack Developer with a deep focus on the Next.js ecosystem, mod
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,zustand,redux,framer" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,zustand,redux,framer-motion" alt="Frontend" />
 </p>
 
 <p>
