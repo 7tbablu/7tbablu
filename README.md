@@ -91,17 +91,6 @@ Self-taught Full-Stack Developer with a deep focus on the Next.js ecosystem, mod
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier" />
 </p>
 
-| Category | Core Technologies & Libraries |
-| :--- | :--- |
-| **Languages** | TypeScript, JavaScript, SQL, HTML5, CSS3 |
-| **Frontend** | React, Next.js (App Router), Tailwind CSS, Zustand, Redux Toolkit, TanStack Query, Framer Motion, Tiptap |
-| **Backend** | Node.js, Next.js Route Handlers, Server Actions, REST APIs, Zod |
-| **Database & ORM** | PostgreSQL, Prisma, MongoDB, MongoDB Atlas, Neon |
-| **Authentication** | Better Auth, OAuth, Google Authentication |
-| **UI & Systems** | Shadcn UI, Magic UI, Lucide React, React Hook Form |
-| **Cloud & Services** | Vercel, ImageKit, Cloudinary, AWS S3 Compatible Storage, Resend, Razorpay |
-| **Developer Tools** | Git, GitHub, VS Code, pnpm, npm, ESLint, Prettier |
-
 ---
 
 ### **Engineering**
