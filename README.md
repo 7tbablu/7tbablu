@@ -37,18 +37,18 @@ Self-taught Full-Stack Developer with a deep focus on the Next.js ecosystem, mod
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,zustand,redux,framer" alt="Frontend" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
   <img src="https://img.shields.io/badge/Tiptap-000000?style=for-the-badge&logo=tiptap&logoColor=white" alt="Tiptap" />
 </p>
 
 ### Backend
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Next.js_Server_Actions-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Server Actions" />
   <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
@@ -56,18 +56,18 @@ Self-taught Full-Stack Developer with a deep focus on the Next.js ecosystem, mod
 
 ### Database & ORM
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb" alt="Database and ORM" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas" />
   <img src="https://img.shields.io/badge/Neon-000000?style=for-the-badge&logo=neon&logoColor=white" alt="Neon" />
 </p>
 
 ### Authentication
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge" alt="Better Auth" />
   <img src="https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="OAuth" />
   <img src="https://img.shields.io/badge/Google_Auth-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Authentication" />
@@ -75,7 +75,7 @@ Self-taught Full-Stack Developer with a deep focus on the Next.js ecosystem, mod
 
 ### UI & Systems
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" />
   <img src="https://img.shields.io/badge/Magic_UI-000000?style=for-the-badge" alt="Magic UI" />
   <img src="https://img.shields.io/badge/Lucide-000000?style=for-the-badge&logo=lucide&logoColor=white" alt="Lucide" />
@@ -84,11 +84,11 @@ Self-taught Full-Stack Developer with a deep focus on the Next.js ecosystem, mod
 
 ### Cloud & Services
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/ImageKit-0066FF?style=for-the-badge" alt="ImageKit" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
   <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3" />
@@ -98,11 +98,11 @@ Self-taught Full-Stack Developer with a deep focus on the Next.js ecosystem, mod
 
 ### Developer Tools
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Developer Tools" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
