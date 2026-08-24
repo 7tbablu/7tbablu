@@ -90,12 +90,10 @@ Self-taught Full-Stack Developer with a deep focus on the Next.js ecosystem, mod
 ### Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pnpm" alt="Developer Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pnpm,npm" alt="Developer Tools" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier" />
 </p>
