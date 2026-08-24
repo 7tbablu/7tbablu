@@ -1,14 +1,8 @@
 <!-- github.com/kbablu/kbablu -->
 
-<div align="center">
+<div>
   <h1>Bablu Kumar</h1>
   <p><b>Full-Stack Next.js Developer building modern, scalable & production-ready web applications.</b></p>
-  
-  <p>
-    <a href="https://kbablu.com"><img src="https://img.shields.io/badge/Portfolio-kbablu.com-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://linkedin.com/in/[Your-LinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://x.com/[Your-Handle]"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  </p>
 </div>
 
 ---
