@@ -27,13 +27,13 @@ Self-taught Full-Stack Developer with a deep focus on the Next.js ecosystem, mod
 
 ### Languages
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=ts,js,html,css" alt="Languages" />
 </p>
 
 ### Frontend
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,zustand,redux,framer" alt="Frontend" />
 </p>
 
