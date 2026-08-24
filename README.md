@@ -67,8 +67,7 @@ Self-taught Full-Stack Developer with a deep focus on the Next.js ecosystem, mod
 ### UI & Systems
 
 <p>
-  <img src="https://cdn.simpleicons.org/shadcnui" width="48" height="48" alt="shadcn/ui" />
-  <img src="https://cdn.simpleicons.org/magicui" width="48" height="48" alt="Magic UI" />
+  <img src="https://cdn.simpleicons.org/shadcnui/000000" width="48" height="48" alt="shadcn/ui" />
   <img src="https://cdn.simpleicons.org/lucide" width="48" height="48" alt="Lucide" />
   <img src="https://cdn.simpleicons.org/reacthookform" width="48" height="48" alt="React Hook Form" />
 </p>
