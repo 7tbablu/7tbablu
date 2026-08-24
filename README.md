@@ -42,7 +42,7 @@ Self-taught Full-Stack Developer with a deep focus on the Next.js ecosystem, mod
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="48" height="48" alt="Tailwind CSS" />
   <img src="https://cdn.simpleicons.org/zustand/000000" width="48" height="48" alt="Zustand" />
   <img src="https://cdn.simpleicons.org/redux/764ABC" width="48" height="48" alt="Redux" />
-  <img src="https://cdn.simpleicons.org/framer/0055FF" width="48" height="48" alt="Framer Motion" />
+  <img src="https://cdn.simpleicons.org/motion/0055FF" width="48" height="48" alt="Framer Motion" />
   <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="48" height="48" alt="TanStack Query" />
   <img src="https://cdn.simpleicons.org/tiptap/000000" width="48" height="48" alt="Tiptap" />
 </p>
