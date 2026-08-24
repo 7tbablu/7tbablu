@@ -21,10 +21,6 @@ Self-taught Full-Stack Developer with a deep focus on the Next.js ecosystem, mod
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,postgres,nextjs,react,tailwind,nodejs,express,prisma,mongodb,vercel,git,vscode,pnpm" alt="Tech Stack Icons" />
-</p>
-
 ### Languages
 
 <p>
@@ -35,16 +31,6 @@ Self-taught Full-Stack Developer with a deep focus on the Next.js ecosystem, mod
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,zustand,redux,framer-motion" alt="Frontend" />
-</p>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" alt="React" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="48" height="48" alt="Next.js" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="48" height="48" alt="Tailwind CSS" />
-  <img src="https://cdn.simpleicons.org/zustand/000000" width="48" height="48" alt="Zustand" />
-  <img src="https://cdn.simpleicons.org/redux/764ABC" width="48" height="48" alt="Redux" />
-  <img src="https://cdn.simpleicons.org/motion/0055FF" width="48" height="48" alt="Framer Motion" />
-  <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="48" height="48" alt="TanStack Query" />
-  <img src="https://cdn.simpleicons.org/tiptap/000000" width="48" height="48" alt="Tiptap" />
 </p>
 
 ### Backend
