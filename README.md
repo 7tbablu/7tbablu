@@ -66,10 +66,10 @@ Self-taught Full-Stack Developer with a deep focus on the Next.js ecosystem, mod
 
 ### UI & Systems
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/shadcnui/FFFFFF" width="48" height="48" hspace="8" alt="shadcn/ui" />
-  <img src="https://cdn.simpleicons.org/lucide/FFFFFF" width="48" height="48" hspace="8" alt="Lucide" />
-  <img src="https://cdn.simpleicons.org/reacthookform/EC5990" width="48" height="48" hspace="8" alt="React Hook Form" />
+<p>
+  <img src="https://cdn.simpleicons.org/shadcnui/FFFFFF" width="44" height="44" hspace="8" alt="shadcn/ui" />
+  <img src="https://cdn.simpleicons.org/lucide/FFFFFF" width="44" height="44" hspace="8" alt="Lucide" />
+  <img src="https://cdn.simpleicons.org/reacthookform/EC5990" width="44" height="44" hspace="8" alt="React Hook Form" />
 </p>
 
 ### Cloud & Services
